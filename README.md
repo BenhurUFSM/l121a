@@ -40,9 +40,9 @@ Não deixem dúvidas acumularem. Quanto mais cedo conseguirmos nos comunicar par
 
 ##  Aulas 
 
-    N |   data | assunto
- ---- |  ----- | ---------
-    1 |  18mai | introdução
+|    N |   data | assunto
+| ---: | :----: | :--------
+|    1 |  18mai | introdução
 
 <!--
   , organização de computadores (CPU (UC+ULA), Mem, E/S), "tudo é número!"
@@ -91,9 +91,9 @@ Não deixem dúvidas acumularem. Quanto mais cedo conseguirmos nos comunicar par
 
 ## Trabalhos
 
-     N    prazo assunto
- ----- -------- ------------
-    t1      ASD ASD
+|     N |    prazo | assunto
+| ----: | -------: | :-----------
+|    t1 |      ASD | ASD
 
 <!--
   [t1]    <8dez adivinha
