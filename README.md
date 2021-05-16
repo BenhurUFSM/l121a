@@ -1,15 +1,15 @@
 # l121a --- Laboratório de Programação I
 turmas CC2 e SI2, primeiro semestre 2021\
 ELC1065 DLSC/CT/UFSM\
-professor Benhur Stein 
+professor: Benhur Stein 
 ([benhur+l121a@inf.ufsm.br](mailto:benhur%2bl121a@inf.ufsm.br))\
-monitor Marcos Visentini [mvisentini@inf.ufsm.br]\
+monitor: Marcos Visentini [mvisentini@inf.ufsm.br]\
 terças e quintas, 14h30
 
 
 **Desenvolvimento da disciplina**
 
-Os canais de comunicação entre o professor e os alunos são esta página ([https://github.com/BenhurUFSM/l121a](http://www.inf.ufsm.br/~benhur/l120b)), o servidor discord (<https://discord.gg/8CGb3VnTSj>) e e-mail para [benhur+l121a@inf.ufsm.br](mailto:benhur%2bl121a@inf.ufsm.br).
+Os canais de comunicação entre o professor e os alunos são esta página ([https://github.com/BenhurUFSM/l121a]), o servidor discord (<https://discord.gg/8CGb3VnTSj>) e e-mail para [benhur+l121a@inf.ufsm.br](mailto:benhur%2bl121a@inf.ufsm.br).
 Outros canais que eventualmente sejam criados serão comunicados aqui.
 
 Todos os alunos **devem** enviar um e-mail inicial para o professor para confirmar o seu endereço de e-mail, e **devem** se inscrever no servidor discord.
@@ -40,9 +40,9 @@ Não deixem dúvidas acumularem. Quanto mais cedo conseguirmos nos comunicar par
 
 ##  Aulas 
 
-    N   data   assunto
- ----  -----   ---------
-    1  18mai   introdução
+    N |   data | assunto
+ ---- |  ----- | ---------
+    1 |  18mai | introdução
 
 <!--
   , organização de computadores (CPU (UC+ULA), Mem, E/S), "tudo é número!"
