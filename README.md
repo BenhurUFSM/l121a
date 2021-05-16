@@ -9,7 +9,7 @@ terças e quintas, 14h30
 
 **Desenvolvimento da disciplina**
 
-Os canais de comunicação entre o professor e os alunos são esta página ([https://github.com/BenhurUFSM/l121a]), o servidor discord (<https://discord.gg/8CGb3VnTSj>) e e-mail para [benhur+l121a@inf.ufsm.br](mailto:benhur%2bl121a@inf.ufsm.br).
+Os canais de comunicação entre o professor e os alunos são esta página (<https://github.com/BenhurUFSM/l121a>), o servidor discord (<https://discord.gg/8CGb3VnTSj>) e e-mail para [benhur+l121a@inf.ufsm.br](mailto:benhur%2bl121a@inf.ufsm.br).
 Outros canais que eventualmente sejam criados serão comunicados aqui.
 
 Todos os alunos **devem** enviar um e-mail inicial para o professor para confirmar o seu endereço de e-mail, e **devem** se inscrever no servidor discord.
