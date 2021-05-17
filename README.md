@@ -8,7 +8,7 @@ material complementar da monitoria: [https://wisentini.github.io/monitoria-l121a
 terças e quintas, 14h30
 
 
-**Desenvolvimento da disciplina**
+## Desenvolvimento da disciplina
 
 Os canais de comunicação entre o professor e os alunos são esta página (<https://github.com/BenhurUFSM/l121a>), o servidor discord (<https://discord.gg/8CGb3VnTSj>) e e-mail para [benhur+l121a@inf.ufsm.br](mailto:benhur%2bl121a@inf.ufsm.br).
 Outros canais que eventualmente sejam criados serão comunicados aqui.
@@ -31,7 +31,8 @@ Durante as aulas, vamos usar um ambiente online, em princípio será o <www.gdbo
 
 Meu ambiente pessoal de trabalho é no sistema linux, e nesse sistema posso auxiliá-los na instalação e uso de um compilador. Não tenho nenhuma experiência pessoal gratificante com windows, não vou poder auxiliá-lo com problemas diretamente relacionados ao uso desse ambiente.
 
-Por ser uma disciplina prática, a principal forma de avaliação dos alunos será através do desenvolvimento de pequenos programas, a serem enviados para o professor. No final do semestre, deve ser desenvolvido um trabalho final um pouco mais complexo.
+Por ser uma disciplina prática, a principal forma de avaliação dos alunos será através de exercícios, principalmente o desenvolvimento de pequenos programas de computador, a serem enviados para o professor. No final do semestre, deve ser desenvolvido um trabalho final um pouco mais complexo.
+A descrição desses exercícios e programas, bem como a forma de entrega e avaliação dos mesmos será disponibilizada nesta página.
 
 O distanciamento físico entre todos da turma torna o desenvolvimento da disciplina bem mais desafiante para todos nós.
 Todos vamos precisar nos empenhar mais que em um semestre normal.
@@ -90,10 +91,11 @@ Não deixem dúvidas acumularem. Quanto mais cedo conseguirmos nos comunicar par
 
 -->
 
-## Trabalhos
+## Exercícios e trabalhos
 
 |     N |    prazo | assunto
 | ----: | -------: | :-----------
+|    e1 | 18mai14h30 | envio de email de confirmação, acesso ao discord
 |    t1 |      ASD | ASD
 
 <!--
@@ -111,7 +113,11 @@ Não deixem dúvidas acumularem. Quanto mais cedo conseguirmos nos comunicar par
 
 -->
 
-#### Ementa
+## Avaliação
+
+Veja a [planilha](https://docs.google.com/spreadsheets/d/1vGsbATV6MzJOWgx205w_sS62_PDaY49Z0PNa4bUcHRw/edit?usp=sharing).
+
+## Ementa
 
 Ver [aqui](https://www.ufsm.br/ementario/disciplinas/elc1065/).
 
