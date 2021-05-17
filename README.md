@@ -113,10 +113,6 @@ Não deixem dúvidas acumularem. Quanto mais cedo conseguirmos nos comunicar par
 
 -->
 
-## Avaliação
-
-Veja a [planilha](https://docs.google.com/spreadsheets/d/1vGsbATV6MzJOWgx205w_sS62_PDaY49Z0PNa4bUcHRw/edit?usp=sharing).
-
 ## Ementa
 
 Ver [aqui](https://www.ufsm.br/ementario/disciplinas/elc1065/).
@@ -135,9 +131,7 @@ Ajude o passarinho a detonar o porco (semelhante ao anterior) [code.org](http://
 
 O PET oferece tópicos de apoio a disciplinas iniciais.
 
-<!--
-#### Avaliações etc
+## Avaliações etc
 
-Veja a [planilha](https://docs.google.com/spreadsheets/d/1puqKIgPPudpogUSuh4e9nCmvy4t_oZpHqWW7748uR5c/edit?usp=sharing)
+Veja a [planilha](https://docs.google.com/spreadsheets/d/1vGsbATV6MzJOWgx205w_sS62_PDaY49Z0PNa4bUcHRw/edit?usp=sharing).
 
--->
