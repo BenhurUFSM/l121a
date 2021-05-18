@@ -27,7 +27,7 @@ A universidade dispõe de laboratórios com computadores para acesso aos alunos,
 
 Em um computador pessoal, pode-se instalar um ambiente de desenvolvimento localmente ou usar um dos vários que existem gratuitamente online.
 O que se necessita como ambiente de desenvolvimento para a disciplina é o mais básico, basta um compilador da linguagem "C".
-Durante as aulas, vamos usar um ambiente online, em princípio será o <www.gdbonline.com>. Os exercícios e trabalhos da disciplinas podem também ser desenvolvidos nesse ambiente.
+Durante as aulas, vamos usar um ambiente online, em princípio será o <www.onlinegdb.com>. Os exercícios e trabalhos da disciplinas podem também ser desenvolvidos nesse ambiente.
 
 Meu ambiente pessoal de trabalho é no sistema linux, e nesse sistema posso auxiliá-los na instalação e uso de um compilador. Não tenho nenhuma experiência pessoal gratificante com windows, não vou poder auxiliá-lo com problemas diretamente relacionados ao uso desse ambiente.
 
