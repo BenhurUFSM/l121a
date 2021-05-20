@@ -44,7 +44,7 @@ Não deixem dúvidas acumularem. Quanto mais cedo conseguirmos nos comunicar par
 
 |    N |   data | assunto
 | ---: | :----: | :--------
-|    1 |  18mai | introdução
+|    1 |  18mai | [introdução](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/01.Intro.md)
 
 <!--
   , organização de computadores (CPU (UC+ULA), Mem, E/S), "tudo é número!"
