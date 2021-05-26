@@ -46,6 +46,7 @@ Não deixem dúvidas acumularem. Quanto mais cedo conseguirmos nos comunicar par
 | ---: | :----: | :--------
 |    1 |  18mai | [introdução](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/01.Intro.md)
 |    2 |  20mai | [primeiro programa C](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/02.p1.c.md)
+|    3 |  25mai | [variáveis, entrada de dados](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/03.md)
 
 <!--
   , organização de computadores (CPU (UC+ULA), Mem, E/S), "tudo é número!"
@@ -97,6 +98,7 @@ Não deixem dúvidas acumularem. Quanto mais cedo conseguirmos nos comunicar par
 |     N |    prazo | assunto
 | ----: | -------: | :-----------
 |    e1 | 18mai14h30 | envio de email de confirmação, acesso ao discord
+|    e2 | 27mai14h30 | ver aula 3
 |    t1 |      ASD | ASD
 
 <!--
