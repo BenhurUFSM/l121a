@@ -48,6 +48,7 @@ Não deixem dúvidas acumularem. Quanto mais cedo conseguirmos nos comunicar par
 |    2 |  20mai | [primeiro programa C](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/02.p1.c.md)
 |    3 |  25mai | [variáveis, entrada de dados](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/03.md)
 |    4 |  27mai | [tipos de dados em ponto flutuante](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/04.md)
+|    5 |   1jun | [funções](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/05.md)
 
 <!--
   , organização de computadores (CPU (UC+ULA), Mem, E/S), "tudo é número!"
