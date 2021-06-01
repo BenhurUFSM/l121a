@@ -101,6 +101,7 @@ Não deixem dúvidas acumularem. Quanto mais cedo conseguirmos nos comunicar par
 | ----: | -------: | :-----------
 |    e1 | 18mai14h30 | envio de email de confirmação, acesso ao discord
 |    e2 | 27mai14h30 | ver aula 3
+|    e3 | 8jun14h  | ver aula 5
 |    t1 |      ASD | ASD
 
 <!--
