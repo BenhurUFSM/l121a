@@ -4,7 +4,7 @@ ELC1065 DLSC/CT/UFSM\
 professor: Benhur Stein 
 ([benhur+l121a@inf.ufsm.br](mailto:benhur%2bl121a@inf.ufsm.br))\
 monitor: Marcos Visentini [mvisentini@inf.ufsm.br]\
-material complementar da monitoria: [https://wisentini.github.io/monitoria-l121a]\
+material complementar da monitoria: [https://github.com/wisentini/monitoria-l121a]\
 terças e quintas, 14h30
 
 
