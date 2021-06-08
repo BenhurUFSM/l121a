@@ -49,6 +49,7 @@ Não deixem dúvidas acumularem. Quanto mais cedo conseguirmos nos comunicar par
 |    3 |  25mai | [variáveis, entrada de dados](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/03.md)
 |    4 |  27mai | [tipos de dados em ponto flutuante](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/04.md)
 |    5 |   1jun | [funções](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/05.md)
+|    6 |   8jun | [seleção `if`](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/06.md)
 
 <!--
   , organização de computadores (CPU (UC+ULA), Mem, E/S), "tudo é número!"
@@ -102,7 +103,7 @@ Não deixem dúvidas acumularem. Quanto mais cedo conseguirmos nos comunicar par
 |    e1 | 18mai14h30 | envio de email de confirmação, acesso ao discord
 |    e2 | 27mai14h30 | ver aula 3
 |    e3 | 8jun14h  | ver aula 5
-|    t1 |      ASD | ASD
+|    t1 | 15jun14h | ver aula 6
 
 <!--
   [t1]    <8dez adivinha
