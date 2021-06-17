@@ -51,6 +51,7 @@ Não deixem dúvidas acumularem. Quanto mais cedo conseguirmos nos comunicar par
 |    5 |   1jun | [funções](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/05.md)
 |    6 |   8jun | [seleção `if`, operadores de comparação](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/06.md)
 |    7 |  10jun | [operadores lógicos, seleção múltipla com `if`s aninhados](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/07.md)
+|    8 |  15jun | [comando de repetição `for`](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/08.md)
 
 <!--
   , organização de computadores (CPU (UC+ULA), Mem, E/S), "tudo é número!"
