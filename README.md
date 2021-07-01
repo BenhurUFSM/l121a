@@ -55,6 +55,7 @@ Não deixem dúvidas acumularem. Quanto mais cedo conseguirmos nos comunicar par
 |    9 |  17jun | [comandos de repetição `while` e `do .. while`](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/09.md)
 |   10 |  24jun | [comando de seleção `switch`; vetores](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/10.md)
 |   11 |  29jun | [vetores, cont](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/11.md)
+|   12 |   1jul | [strings](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/12.md)
 
 <!--
   , organização de computadores (CPU (UC+ULA), Mem, E/S), "tudo é número!"
@@ -109,6 +110,7 @@ Não deixem dúvidas acumularem. Quanto mais cedo conseguirmos nos comunicar par
 |    e2 | 27mai14h30 | ver aula 3
 |    e3 | 8jun14h  | ver aula 5
 |    t1 | 15jun14h | ver aula 6
+|    t2 | ASD      | ver aula 11
 
 <!--
   [t1]    <8dez adivinha
