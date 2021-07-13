@@ -3,6 +3,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
+#include <time.h>
 
 // funcao pedida: recebe uma matriz 3x3 com o jogo, retorna 'X', 'O' ou 'E'
 // se o jogo terminou com vitória de X ou O ou se terminou com empate, ou
@@ -179,12 +180,9 @@ char outro_jogador(char jogador)
 char escolhe_jogador(char ultimo_iniciante, char ultimo_ganhador)
 {
     if (ultimo_ganhador != ' ') return ultimo_ganhador;
-    if (ultimo_iniciante == ' ') {
-        if ((rand() % 2) == 0) return 'X';
-        else return 'O';
-    } else {
-        return outro_jogador(ultimo_iniciante);
-    }
+    if (ultimo_iniciante != ' ') return outro_jogador(ultimo_iniciante);
+    if ((rand() % 2) == 0) return 'X';
+    return 'O';
 }
 
 bool quer_outra_partida(void)
@@ -251,6 +249,7 @@ char velha(char jogador)
 
 int main()
 {
+    srand(time(0));
     int vitorias_x = 0, vitorias_o = 0, empates = 0;
     char ultimo_iniciante = ' ';
     char ultimo_vencedor = ' ';
