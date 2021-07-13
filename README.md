@@ -113,7 +113,7 @@ Não deixem dúvidas acumularem. Quanto mais cedo conseguirmos nos comunicar par
 |    e2 | 27mai14h30 | ver aula 3
 |    e3 | 8jun14h  | ver aula 5
 |    t1 | 15jun14h | ver aula 6
-|    t2 | 10jul    | ver aula 11
+|    t2 | 10jul    | ver aula 11 ([exemplo](https://github.com/BenhurUFSM/l121a/blob/main/Complementos/t2.c))
 
 <!--
   [t1]    <8dez adivinha
