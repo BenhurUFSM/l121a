@@ -1,4 +1,4 @@
-// Exemplo de implementação do jogo da velha, t2 de l12021a
+// Exemplo de implementação do jogo da velha, t2 de l121a
 
 #include <stdio.h>
 #include <stdbool.h>
