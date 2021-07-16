@@ -59,6 +59,7 @@ Não deixem dúvidas acumularem. Quanto mais cedo conseguirmos nos comunicar par
 |   13 |   6jul | [exercícios de string; sscanf, sprintf](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/13.md)
 |   14 |   8jul | [passagem de parâmetros por referência](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/14.md)
 |   15 |  13jul | [arquivos](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/15.md)
+|   16 |  15jul | [exercícios](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/16.md)
 
 <!--
   , organização de computadores (CPU (UC+ULA), Mem, E/S), "tudo é número!"
@@ -114,6 +115,7 @@ Não deixem dúvidas acumularem. Quanto mais cedo conseguirmos nos comunicar par
 |    e3 | 8jun14h  | ver aula 5
 |    t1 | 15jun14h | ver aula 6
 |    t2 | 10jul    | ver aula 11 ([exemplo](https://github.com/BenhurUFSM/l121a/blob/main/Complementos/t2.c))
+|    t3 | ASD      | ver aula 16
 
 <!--
   [t1]    <8dez adivinha
