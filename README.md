@@ -60,6 +60,7 @@ Não deixem dúvidas acumularem. Quanto mais cedo conseguirmos nos comunicar par
 |   14 |   8jul | [passagem de parâmetros por referência](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/14.md)
 |   15 |  13jul | [arquivos](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/15.md)
 |   16 |  15jul | [exercícios](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/16.md)
+|   17 |  20jul | [registros](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/17.md)
 
 <!--
   , organização de computadores (CPU (UC+ULA), Mem, E/S), "tudo é número!"
