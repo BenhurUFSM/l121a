@@ -61,6 +61,7 @@ Não deixem dúvidas acumularem. Quanto mais cedo conseguirmos nos comunicar par
 |   15 |  13jul | [arquivos](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/15.md)
 |   16 |  15jul | [exercícios](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/16.md)
 |   17 |  20jul | [registros](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/17.md)
+|   18 |  22jul | [exercícios](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/18.md)
 
 <!--
   , organização de computadores (CPU (UC+ULA), Mem, E/S), "tudo é número!"
@@ -116,7 +117,7 @@ Não deixem dúvidas acumularem. Quanto mais cedo conseguirmos nos comunicar par
 |    e3 | 8jun14h  | ver aula 5
 |    t1 | 15jun14h | ver aula 6
 |    t2 | 10jul    | ver aula 11 ([exemplo](https://github.com/BenhurUFSM/l121a/blob/main/Complementos/t2.c))
-|    t3 | ASD      | ver aula 16
+|    t3 | ASD      | ver aula 16 (foi adicionada a parte 2)
 
 <!--
   [t1]    <8dez adivinha
