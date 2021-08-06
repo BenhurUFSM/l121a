@@ -120,6 +120,7 @@ Não deixem dúvidas acumularem. Quanto mais cedo conseguirmos nos comunicar par
 |    t1 | 15jun14h | ver aula 6
 |    t2 | 10jul    | ver aula 11 ([exemplo](https://github.com/BenhurUFSM/l121a/blob/main/Complementos/t2.c))
 |    t3 | ~~3ago~~ 5ago | ver aula 16 (foi adicionada a parte 2)
+|    t4 | ASD | [threes](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/20.md)
 
 <!--
   [t1]    <8dez adivinha
