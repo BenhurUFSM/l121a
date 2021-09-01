@@ -56,3 +56,46 @@ Para a entrada acima, a saída deve ser:
 7: 6 20 9
 8: 6 15 4
 ```
+
+* * *
+
+### Autômato celular linear
+
+Um biólogo está experimentando modificações no DNA de colônias de bactérias criadas em placas de petri lineares.
+Mudando o DNA, ele consegue programar a resposta das bactérias à densidade populacional em regiões vizinhas da placa.
+A densidade populacional de uma região da placa é representada por um valor inteiro entre 0 e 3.
+A placa é representada por um vetor de 41 posições (0 a 40), cada uma contendo a densidade populacional de uma região da placa.
+A informação de DNA é representada por um vetor de 10 posições (0 a 9), contendo valores entre 0 e 3.
+A densidade populacional de cada região da placa é calculada a cada dia, baseada na densidade populacional dessa região e das duas regiões vizinhas, da seguinte forma:
+- soma-se em `s` os valores de densidade populacional da região considerada e de suas duas vizinhas. A densidade populacional da região considerada no dia seguinte será `DNA\[s\]`;
+- considera-se que a densidade populacional à esquerda da primeira região e à direita da última é sempre 0.
+
+Escreva um programa para simular o crescimento de uma cultura, que inicia com a região 20 com densidade populacional 1 e todas as demais regiões com densidade 0.
+
+#### Entrada
+
+A entrada começa com uma linha contendo um inteiro positivo, que representa o número de casos que deve ser simulado, seguido pelos casos, um por linha.
+Cada caso é composto pelos 10 valores do DNA, separados por espaço.
+
+#### Saída
+
+A saída é composta pela evolução de cada caso, como descrito a seguir. Os casos são separados por uma linha em branco.
+
+Cada caso é composto por 21 linhas, cada uma representando um dia na evolução da densidade populacional das regiões da placa.
+Cada linha é composta por 41 caracteres, um para cada uma das 41 regiões.
+Se a região tem densidade 0, é representada pelo caractere `.`; se tem densidade 1, por `:`; se densidade 2, por `x`, e se tiver densidade 3, por `@`.
+
+#### Exemplo de entrada
+
+```
+2
+0 1 2 0 1 3 3 2 3 0
+0 1 3 2 1 0 3 2 3 1
+```
+
+#### Exemplo de saída
+
+Para a entrada acima, a saída deve ser como abaixo.
+
+```
+```
