@@ -4,7 +4,7 @@ A prova do exame consistirá no desenvolvimento de um programa não muito comple
 
 Segue um exemplo de programa que poderia ser usado nessa prova.
 
-#### Sequência de Collatz
+### Sequência de Collatz
 
 Lothar Collatz propôs uma conjectura, em 1937, que é um problema ainda não resolvido na matemática.
 A conjectura é que, partindo-se de qualquer inteiro *n*, a sequência de números produzida pelas regras a seguir sempre chega ao valor *1*.
@@ -16,17 +16,17 @@ Por exemplo, a sequência partindo de 5 é *5, 16, 8, 4, 2, 1*; partindo de 6 é
 
 Você deve fazer um programa que determina o comprimento de uma sequência como essa. No nosso caso, a sequência tem duas formas de parar: quando atingir o valor 1 ou quando iria atingir um valor maior que certo limite. Por exemplo, se o limite for 15, a sequência iniciando em 6 teria só 3 termos depois do 6.
 
-##### Entrada
+#### Entrada
 
 A entrada para o seu programa é um arquivo, contendo múltiplos casos para testar.
 Para cada caso, a entrada contém uma linha com dois inteiros positivos, o primeiro é o número inicial da sequência e o segundo é o valor limite. Ambos os números são representáveis como inteiros de 32 bits. O primeiro número é sempre menor que o segundo.
 Uma linha contendo dois valores negativos segue o último caso.
 
-##### Saída
+#### Saída
 
 O programa deve imprimir uma linha para cada caso, contendo o número do caso (sequencial iniciando em 1), ':', o valor inicial, o limite, e o número de termos.
 
-##### Exemplo de entrada
+#### Exemplo de entrada
 
 ```
 3 100
@@ -38,7 +38,7 @@ O programa deve imprimir uma linha para cada caso, contendo o número do caso (s
 -1 -1
 ```
 
-##### Exemplo de saída
+#### Exemplo de saída
 
 Para a entrada acima, a saída deve ser:
 
