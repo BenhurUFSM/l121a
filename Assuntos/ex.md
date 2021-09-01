@@ -37,6 +37,8 @@ O programa deve imprimir uma linha para cada caso, contendo o número do caso (s
 27 2147483647
 101 304
 101 303
+6 20
+6 15
 -1 -1
 ```
 
@@ -50,4 +52,7 @@ Para a entrada acima, a saída deve ser:
 3: 75 250 3
 4: 27 2147483647 112
 5: 101 304 26
+6: 101 303 1
+7: 6 20 9
+8: 6 15 4
 ```
