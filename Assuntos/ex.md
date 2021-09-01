@@ -4,6 +4,8 @@ A prova do exame consistirá no desenvolvimento de um programa não muito comple
 
 Segue um exemplo de programa que poderia ser usado nessa prova.
 
+* * *
+
 ### Sequência de Collatz
 
 Lothar Collatz propôs uma conjectura, em 1937, que é um problema ainda não resolvido na matemática.
