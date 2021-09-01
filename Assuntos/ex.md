@@ -2,7 +2,7 @@
 
 A prova do exame consistirá no desenvolvimento de um programa não muito complexo, em um tempo limitado, durante o horário de aula.
 
-Segue um exemplo de programa que poderia ser usado nessa prova.
+Abaixo estão exemplos de programas que poderiam ser pedidos nessa prova.
 
 * * *
 
@@ -20,13 +20,13 @@ Você deve fazer um programa que determina o comprimento de uma sequência como 
 
 #### Entrada
 
-A entrada para o seu programa é um arquivo, contendo múltiplos casos para testar.
+A entrada para o seu programa é um arquivo, chamado "entrada" contendo múltiplos casos para testar.
 Para cada caso, a entrada contém uma linha com dois inteiros positivos, o primeiro é o número inicial da sequência e o segundo é o valor limite. Ambos os números são representáveis como inteiros de 32 bits. O primeiro número é sempre menor que o segundo.
 Uma linha contendo dois valores negativos segue o último caso.
 
 #### Saída
 
-O programa deve imprimir uma linha para cada caso, contendo o número do caso (sequencial iniciando em 1), ':', o valor inicial, o limite, e o número de termos.
+O programa deve gerar um arquivo, chamado "saida", com uma linha para cada caso, contendo o número do caso (sequencial iniciando em 1), ':', o valor inicial, o limite, e o número de termos.
 
 #### Exemplo de entrada
 
@@ -74,16 +74,19 @@ Escreva um programa para simular o crescimento de uma cultura, que inicia com a 
 
 #### Entrada
 
-A entrada começa com uma linha contendo um inteiro positivo, que representa o número de casos que deve ser simulado, seguido pelos casos, um por linha.
+A entrada (em um arquivo chamado "entrada") começa com uma linha contendo um inteiro positivo, que representa o número de casos que deve ser simulado, seguido pelos casos, um por linha.
 Cada caso é composto pelos 10 valores do DNA, separados por espaço.
 
 #### Saída
 
 A saída é composta pela evolução de cada caso, como descrito a seguir. Os casos são separados por uma linha em branco.
+A saida deve ser colocada em um arquivo chamado "saida".
 
 Cada caso é composto por 21 linhas, cada uma representando um dia na evolução da densidade populacional das regiões da placa.
 Cada linha é composta por 41 caracteres, um para cada uma das 41 regiões.
 Se a região tem densidade 0, é representada pelo caractere `.`; se tem densidade 1, por `:`; se densidade 2, por `x`, e se tiver densidade 3, por `@`.
+
+A saída deve ser colocada em um arquivo chamado "saida".
 
 #### Exemplo de entrada
 
