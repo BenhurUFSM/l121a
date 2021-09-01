@@ -110,7 +110,7 @@ Não deixem dúvidas acumularem. Quanto mais cedo conseguirmos nos comunicar par
 
 -->
 
-## Exercícios e trabalhos
+## Exercícios, trabalhos e provas
 
 |     N |    prazo | assunto
 | ----: | -------: | :-----------
@@ -121,6 +121,7 @@ Não deixem dúvidas acumularem. Quanto mais cedo conseguirmos nos comunicar par
 |    t2 | 10jul    | ver aula 11 ([exemplo](https://github.com/BenhurUFSM/l121a/blob/main/Complementos/t2.c))
 |    t3 | ~~3ago~~ 5ago | ver aula 16 (foi adicionada a parte 2)
 |    t4 | ASD | [threes](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/t4.md)
+| exame | 9set | (https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/ex.md)
 
 <!--
   [t1]    <8dez adivinha
