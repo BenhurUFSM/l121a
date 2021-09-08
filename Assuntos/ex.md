@@ -1,6 +1,7 @@
 ## Esquenta para o exame
 
 A prova do exame consistirá no desenvolvimento de um programa não muito complexo, em um tempo limitado, durante o horário de aula.
+O aluno deve ter acesso a um computador e um ambiente de programação (pode ser online, como onlinegdb ou replit).
 
 Abaixo estão exemplos de programas que poderiam ser pedidos nessa prova.
 
