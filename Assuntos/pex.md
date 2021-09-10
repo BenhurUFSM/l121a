@@ -77,3 +77,134 @@ Perdeu
 3
 Desistiu
 ```
+
+
+* * *
+
+### Possível solução
+
+```c
+/// possível resposta para o programa de resultado de jogos da forca, exame em l121a
+
+#include <stdio.h>
+#include <string.h>
+#include <stdbool.h>
+
+// para saber o resultado de uma partida, tem que verificar cada caractere chutado,
+// para ver se está ou nao na palavra secreta.
+// nesta implementação, tem uma função para fazer essa verificação.
+// para verificar uma partida, ela pega cada caractere dos chutes, e troca por '_' 
+//   os caracteres iguais na palavra secreta.
+//   se trocar todos, ganha; se chegar a 7 erros, perde; se acabarem os caracteres, desistiu
+// para evitar problemas com chutes iguais, após processar cada chute, elimina os repetidos
+
+
+// funcao auxiliar que diz se uma string só tem sublinhas
+bool so_sublinhas(char *s)
+{
+  for (int i=0; s[i] != 0; i++) {
+    if (s[i] != '_') {
+      return false;
+    }
+  }
+  return true;
+}
+
+// funcao auxiliar que troca por sublinha os caracteres iguais ao dado
+// retorna false se nao achou nenhum
+bool poe_sublinha(char *s, char c)
+{
+  bool sublinhou = false;
+  for (int i=0; s[i] != 0; i++) {
+    if (s[i] == c) {
+      s[i] = '_';
+      sublinhou = true;
+    }
+  }
+  return sublinhou;
+}
+  
+
+// funcao para verificar uma partida
+// recebe a palavra secreta, os chutes e um lugar para escrever o resultado
+void verifica_partida(char *secreta, char *chutes, char *result)
+{
+  // conta os erros, com 7 perde
+  int erros = 0;
+
+  for (int i=0; chutes[i] != 0; i++) {
+    char chute = chutes[i];
+    // chutes duplicados são trocados por '_'
+    if (chute == '_') {
+      continue;
+    }
+    // troca letras iguais ao chute por '_' (ou nao)
+    if (!poe_sublinha(secreta, chute)) {
+      erros++;
+    }
+    // já achou todas as letras?
+    if (so_sublinhas(secreta)) {
+      strcpy(result, "Ganhou");
+      return;
+    }
+    // já tem erros que chega?
+    if (erros >= 7) {
+      strcpy(result, "Perdeu");
+      return;
+    }
+    // troca copias do chute por '_'
+    poe_sublinha(chutes, chute);
+  }
+  strcpy(result, "Desistiu");
+}
+
+int main()
+{
+   // variáveis que representam uma partida
+   int id;
+   char secreta[50];
+   char chutes[50];
+   // variável para o resultado da partida
+   char result[50];
+
+   // arquivo de entrada
+   FILE *ent;
+   ent = fopen("entrada", "r");
+   if (ent == NULL) {
+     printf("não foi possível ler o arquivo \"entrada\"\n");
+     return 1;
+   }
+
+   // arquivo de saida
+   FILE *sai;
+   sai = fopen("saida", "w");
+   if (sai == NULL) {
+     printf("não foi possível criar o arquivo \"saida\"\n");
+     return 2;
+   }
+
+   // o arquivo de entrada tem várias partidas, este laço processa cada uma
+   while (true) {
+     // o primeiro dado de cada partida é a identificação; se for -1 é o fim.
+     fscanf(ent, "%d", &id);
+     if (id == -1) {
+       break;
+     }
+     // além da identificação, a partida tem a palavra secreta e os chutes, duas strings
+     fscanf(ent, "%s%s", secreta, chutes);
+
+     // temos uma partida, vamos ver o resultado
+     verifica_partida(secreta, chutes, result);
+
+     // imprime o resultado no arquivo de saida
+     fprintf(sai, "%d\n%s\n", id, result);
+   }
+
+   // fecha os arquivos
+   fclose(ent);
+   fclose(sai);
+
+   // cai fora
+   return 0;
+}
+```
