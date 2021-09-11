@@ -12,7 +12,7 @@ A avaliação pode ser complementada por uma prova oral individual, em horário 
 
 ### Jogo da forca
 
-O seu programa deve julgar partidas do jogo da forca.
+O seu programa deve julgar partidas do jogo da forca (fonte: onlinejudge.org).
 Para cada partida, é fornecida a palavra secreta e as letras que foram usadas na tentativa de descobrir a palavra. Baseado nessa entrada, o programa deve fornecer o resultado da partida, que pode ser a vitória do jogador, sua derrota ou sua desistência (caso não tenham tentativas suficientes para decidir a vitória nem a derrota).
 As regras do jogo são:
 
